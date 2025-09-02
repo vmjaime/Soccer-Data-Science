@@ -33,6 +33,3 @@ Combina métricas avanzadas, estandarización estadística (Z-Score) y visualiza
 5. **Ponderación de métricas** → Construcción de un índice de rendimiento (*Performance Index*).  
 6. **Comparación inter-equipos** → Ranking de sobrevalorados/subvalorados.  
 
----
-
-## 📂 Estructura del repositorio
